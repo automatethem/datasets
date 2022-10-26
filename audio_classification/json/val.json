@@ -1,1 +1,10 @@
-[{"label":11,"audio":"download\/audio_classification\/json\/val\/0.wav"},{"label":11,"audio":"download\/audio_classification\/json\/val\/1.wav"}]
+[
+  {
+    "label": 11,
+    "audio": "download\/audio_classification\/json\/val\/0.wav"
+  },
+  {
+    "label": 11,
+    "audio": "download\/audio_classification\/json\/val\/1.wav"
+  }
+]
