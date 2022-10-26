@@ -1,1 +1,10 @@
-[{"image":"download\/image_segmentation\/val\/0.png","annotation":"download\/image_segmentation\/val\/0_annotation.png"},{"image":"download\/image_segmentation\/val\/1.png","annotation":"download\/image_segmentation\/val\/1_annotation.png"}]
+[
+  {
+    "image": "download\/image_segmentation\/val\/0.png",
+    "annotation": "download\/image_segmentation\/val\/0_annotation.png"
+  },
+  {
+    "image": "download\/image_segmentation\/val\/1.png",
+    "annotation": "download\/image_segmentation\/val\/1_annotation.png"
+  }
+]
