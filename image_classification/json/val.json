@@ -1,10 +1,10 @@
 [
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/val\/0.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/val\/1.png"
   }
 ]
