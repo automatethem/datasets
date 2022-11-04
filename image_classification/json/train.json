@@ -1,34 +1,34 @@
 [
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/0.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/1.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/2.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/3.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/4.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/5.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/6.png"
   },
   {
-    "labels": 6,
+    "label": 6,
     "image": "download\/image_classification\/json\/train\/7.png"
   }
 ]
