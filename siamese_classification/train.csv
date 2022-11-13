@@ -1,0 +1,9 @@
+,image1,image2,label
+0,download/siamese_classification/train/F0075_AGE_GM_75_c2.jpg,download/siamese_classification/train/F0018_AGE_M_43_c1.jpg,0
+1,download/siamese_classification/train/F0091_AGE_GF_75_f7.jpg,download/siamese_classification/train/F0091_AGE_M_44_e2.jpg,1
+2,download/siamese_classification/train/F0154_AGE_S_30_c4.jpg,download/siamese_classification/train/F0270_AGE_M_52_d1.jpg,0
+3,download/siamese_classification/train/F0260_AGE_M_46_b2.jpg,download/siamese_classification/train/F0260_AGE_D_14_b5.JPG,1
+4,download/siamese_classification/train/F0173_AGE_S_25_d2.jpg,download/siamese_classification/train/F0058_AGE_GF_71_f3.jpg,0
+5,download/siamese_classification/train/F0280_AGE_D_23_b2.jpg,download/siamese_classification/train/F0280_AGE_S_26_a1.jpg,1
+6,download/siamese_classification/train/F0050_AGE_M_43_c1.jpg,download/siamese_classification/train/F0132_AGE_D_20_c1.jpg,0
+7,download/siamese_classification/train/F0173_AGE_S_25_c1.jpg,download/siamese_classification/train/F0173_AGE_S2_18_b1.jpg,1
