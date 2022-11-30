@@ -1,8 +1,0 @@
-,label,image
-0,chair,download/image_classification/multiple_labels/json/val/000005.jpg
-1,car,download/image_classification/multiple_labels/json/val/000007.jpg
-2,horse person,download/image_classification/multiple_labels/json/val/000009.jpg
-3,bicycle,download/image_classification/multiple_labels/json/val/000016.jpg
-4,cat,download/image_classification/multiple_labels/json/val/000019.jpg
-5,car,download/image_classification/multiple_labels/json/val/000020.jpg
-6,dog person,download/image_classification/multiple_labels/json/val/000021.jpg
