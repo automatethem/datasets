@@ -1,3 +1,3 @@
-,low_image,high_image
-0,download/super_resolution/x1/validation/low_000009.jpg,download/super_resolution/x1/validation/high_000009.jpg
-1,download/super_resolution/x1/validation/low_000010.jpg,download/super_resolution/x1/validation/high_000010.jpg
+low_image,high_image
+download/super_resolution/x1/validation/low_000009.jpg,download/super_resolution/x1/validation/high_000009.jpg
+download/super_resolution/x1/validation/low_000010.jpg,download/super_resolution/x1/validation/high_000010.jpg
