@@ -1,3 +1,3 @@
-,image1,image2,label
-0,download/siamese_classification/validation/F0149_AGE_F_64_e2.jpg,download/siamese_classification/validation/F0242_AGE_S_13_c1.jpg,0
-1,download/siamese_classification/validation/F0084_AGE_M_58_g4.jpg,download/siamese_classification/validation/F0084_AGE_GM_84_e2.jpg,1
+image1,image2,label
+download/siamese_classification/validation/F0149_AGE_F_64_e2.jpg,download/siamese_classification/validation/F0242_AGE_S_13_c1.jpg,0
+download/siamese_classification/validation/F0084_AGE_M_58_g4.jpg,download/siamese_classification/validation/F0084_AGE_GM_84_e2.jpg,1
