@@ -1,4 +1,4 @@
-,label,image
-0,car,download/image_classification/multiple_labels/json/train/000012.jpg
-1,person horse,download/image_classification/multiple_labels/json/train/000017.jpg
-2,bicycle person,download/image_classification/multiple_labels/json/train/000023.jpg
+label,image
+car,download/image_classification/multiple_labels/json/train/000012.jpg
+person horse,download/image_classification/multiple_labels/json/train/000017.jpg
+bicycle person,download/image_classification/multiple_labels/json/train/000023.jpg
