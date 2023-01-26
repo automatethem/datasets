@@ -1,8 +1,8 @@
-,label,image
-0,chair,download/image_classification/multiple_labels/json/validation/000005.jpg
-1,car,download/image_classification/multiple_labels/json/validation/000007.jpg
-2,horse person,download/image_classification/multiple_labels/json/validation/000009.jpg
-3,bicycle,download/image_classification/multiple_labels/json/validation/000016.jpg
-4,cat,download/image_classification/multiple_labels/json/validation/000019.jpg
-5,car,download/image_classification/multiple_labels/json/validation/000020.jpg
-6,dog person,download/image_classification/multiple_labels/json/validation/000021.jpg
+label,image
+chair,download/image_classification/multiple_labels/json/validation/000005.jpg
+car,download/image_classification/multiple_labels/json/validation/000007.jpg
+horse person,download/image_classification/multiple_labels/json/validation/000009.jpg
+bicycle,download/image_classification/multiple_labels/json/validation/000016.jpg
+cat,download/image_classification/multiple_labels/json/validation/000019.jpg
+car,download/image_classification/multiple_labels/json/validation/000020.jpg
+dog person,download/image_classification/multiple_labels/json/validation/000021.jpg
