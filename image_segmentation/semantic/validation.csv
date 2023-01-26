@@ -1,3 +1,3 @@
-,image,annotation
-0,download/image_segmentation/semantic/validation/0.png,download/image_segmentation/semantic/validation/0_annotation.png
-1,download/image_segmentation/semantic/validation/1.png,download/image_segmentation/semantic/validation/1_annotation.png
+image,annotation
+download/image_segmentation/semantic/validation/0.png,download/image_segmentation/semantic/validation/0_annotation.png
+download/image_segmentation/semantic/validation/1.png,download/image_segmentation/semantic/validation/1_annotation.png
