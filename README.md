@@ -8,7 +8,7 @@ download from github
 install datasets package
 <pre>
 pip install datasets
-<pre>
+</pre>
 
 python example
 <pre>
