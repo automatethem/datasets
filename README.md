@@ -47,3 +47,6 @@ for example in train_dataset:
 other examples
 
 <a href="https://github.com/automatethem/download/tree/main/tabular_regression/father_son_height">tabular_regression/father_son_height</a>
+<a href="https://github.com/automatethem/download/tree/main/image_classification/multiple_classes/grayscale">image_classification/multiple_classes/grayscale</a>
+
+
