@@ -43,3 +43,7 @@ for example in train_dataset:
     print(example['Son']) #151.892
     break
 </pre>
+
+other examples
+
+<a href="https://github.com/automatethem/download/tree/main/tabular_regression/father_son_height">tabular_regression/father_son_height</a>
