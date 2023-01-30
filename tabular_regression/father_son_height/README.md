@@ -1,12 +1,14 @@
-
 download from github
-
 <pre>
 !git clone https://github.com/automatethem/download
 </pre>
 
-python example
+install datasets package
+<pre>
+pip install datasets
+</pre>
 
+python example
 <pre>
 from datasets import Dataset
 from datasets import load_dataset
