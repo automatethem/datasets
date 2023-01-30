@@ -59,7 +59,7 @@ validation_dataset = dataset_dict['validation']
 #'''
 
 for example in train_dataset:
-    print(example['image']) #165.1
-    print(example['label']) #151.892
+    print(example['image']) #<PIL.PngImagePlugin.PngImageFile image mode=L size=28x28 at 0x7F3C2566AD60>
+    print(example['label']) #0
     break
 </pre>
