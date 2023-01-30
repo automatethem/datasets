@@ -1,4 +1,4 @@
-Help training with custom datasets.
+Custom dataset examples for machine learning.
 
 download from github
 
