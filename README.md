@@ -1,5 +1,7 @@
 # custom-datasets
 
+Custom dataset templates for machine learning
+
 Download from github
 <pre>
 git clone https://github.com/automatethem/custom-datasets
