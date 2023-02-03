@@ -8,58 +8,58 @@ git clone https://github.com/automatethem/custom-datasets
 Supported custom datasets
 
 <pre>
-audio_classification/audiofolder
-audio_classification/json
+custom-datasets/audio_classification/audiofolder
+custom-datasets/audio_classification/json
 
-automatic_speech_recognition/en
+custom-datasets/automatic_speech_recognition/en
 
-image_captioning/json
+custom-datasets/image_captioning/json
 
-image_classification/binary_classes/imagefolder
-image_classification/multiple_classes/color/imagefolder
-image_classification/multiple_classes/grayscale/imagefolder
-image_classification/multiple_classes/grayscale/json
-image_classification/multiple_labels/json
+custom-datasets/image_classification/binary_classes/imagefolder
+custom-datasets/image_classification/multiple_classes/color/imagefolder
+custom-datasets/image_classification/multiple_classes/grayscale/imagefolder
+custom-datasets/custom-datasets/image_classification/multiple_classes/grayscale/json
+custom-datasets/image_classification/multiple_labels/json
 
-image_segmentation/semantic
+custom-datasets/image_segmentation/semantic
 
-object_detection
+custom-datasets/object_detection
 
-question_answering/en
+custom-datasets/question_answering/en
 
-recommendation
+custom-datasets/recommendation
 
-sequence/many_to_many/char
-sequence/many_to_many/word
+custom-datasets/sequence/many_to_many/char
+custom-datasets/sequence/many_to_many/word
 
-siamese_classification
+custom-datasets/siamese_classification
 
-summarization/en
+custom-datasets/summarization/en
 
-super_resolution/x1
-super_resolution/x4
+custom-datasets/super_resolution/x1
+custom-datasets/super_resolution/x4
 
-tabular_classification/bank_loan
-tabular_classification/iris
+custom-datasets/tabular_classification/bank_loan
+custom-datasets/tabular_classification/iris
 
-tabular_regression/father_son_height
-tabular_regression/hyundae_car_price
+custom-datasets/tabular_regression/father_son_height
+custom-datasets/tabular_regression/hyundae_car_price
 
-text_classification/char/ko/json
-text_classification/word/en/json
-text_classification/word/en/text
-text_classification/word/ko/json
-text_classification/word/ko/text
+custom-datasets/text_classification/char/ko/json
+custom-datasets/text_classification/word/en/json
+custom-datasets/text_classification/word/en/text
+custom-datasets/text_classification/word/ko/json
+custom-datasets/text_classification/word/ko/text
 
-text_generation/en/json
-text_generation/ko/json
-text_generation/ko/text
+custom-datasets/text_generation/en/json
+custom-datasets/text_generation/ko/json
+custom-datasets/text_generation/ko/text
 
-time_series
+custom-datasets/time_series
 
-token_classification/en
+custom-datasets/token_classification/en
 
-translation/de_en
+custom-datasets/translation/de_en
 </pre>
 
 Custom dataset examples for machine learning.
