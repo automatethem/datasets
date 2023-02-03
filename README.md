@@ -2,7 +2,7 @@
 
 Download from github
 <pre>
-!git clone https://github.com/automatethem/download
+!git clone https://github.com/automatethem/custom-datasets
 </pre>
 
 Supported custom datasets
