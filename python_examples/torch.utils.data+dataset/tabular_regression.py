@@ -23,7 +23,7 @@ train_dataset = SonHeightDataset(raw_train_dataset)
 validation_dataset = SonHeightDataset(raw_validation_dataset)
 
 for example in train_dataset:
-    Father, Son = batch
+    Father, Son = example
     print(Father) #165.1
     print(Son) #151.892
     break
