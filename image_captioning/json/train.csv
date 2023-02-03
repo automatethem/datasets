@@ -1,9 +1,9 @@
 caption,image
-close up of a woman with black hair and earrings on her face,custom-datasets/image_captioning/json/train/1.png
-black and white photograph of a woman wearing sunglasses and a scarf,custom-datasets/image_captioning/json/train/2.png
-two men are sitting on a couch with their arms around each other,custom-datasets/image_captioning/json/train/3.png
-there is a woman that is sitting on the curb of a busy city street,custom-datasets/image_captioning/json/train/4.png
-"the woman is wearing a white and blue jacket and jeans, while sitting on top of a white wall",custom-datasets/image_captioning/json/train/5.png
-there is a small dog that is laying down on the couch,custom-datasets/image_captioning/json/train/6.png
-this is an image of a woman sitting on a couch with a cup of coffee,custom-datasetsd/image_captioning/json/train/7.png
-there is a leopard standing in the snow with trees in the background,custom-datasets/image_captioning/json/train/8.png
+close up of a woman with black hair and earrings on her face,dataset-templates/image_captioning/json/train/1.png
+black and white photograph of a woman wearing sunglasses and a scarf,dataset-templates/image_captioning/json/train/2.png
+two men are sitting on a couch with their arms around each other,dataset-templates/image_captioning/json/train/3.png
+there is a woman that is sitting on the curb of a busy city street,dataset-templates/image_captioning/json/train/4.png
+"the woman is wearing a white and blue jacket and jeans, while sitting on top of a white wall",dataset-templates/image_captioning/json/train/5.png
+there is a small dog that is laying down on the couch,dataset-templates/image_captioning/json/train/6.png
+this is an image of a woman sitting on a couch with a cup of coffee,dataset-templates/image_captioning/json/train/7.png
+there is a leopard standing in the snow with trees in the background,dataset-templates/image_captioning/json/train/8.png
