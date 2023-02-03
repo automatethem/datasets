@@ -1,4 +1,4 @@
 label,image
-car,custom-custom-datasets/image_classification/multiple_labels/json/train/000012.jpg
-person horse,custom-datasets/image_classification/multiple_labels/json/train/000017.jpg
-bicycle person,custom-datasets/image_classification/multiple_labels/json/train/000023.jpg
+car,dataset-template/image_classification/multiple_labels/json/train/000012.jpg
+person horse,dataset-template/image_classification/multiple_labels/json/train/000017.jpg
+bicycle person,dataset-template/image_classification/multiple_labels/json/train/000023.jpg
