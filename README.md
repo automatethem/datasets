@@ -4,71 +4,71 @@ Dataset templates for machine learning
 
 Download from github
 <pre>
-git clone https://github.com/automatethem/custom-datasets
+git clone https://github.com/automatethem/dataset-templates
 </pre>
 
-Supported custom datasets
+Supported dataset templates
 
 <pre>
-custom-datasets/audio_classification/audiofolder
-custom-datasets/audio_classification/json
+dataset-templates/audio_classification/audiofolder
+dataset-templates/audio_classification/json
 
-custom-datasets/automatic_speech_recognition/en
+dataset-templates/automatic_speech_recognition/en
 
-custom-datasets/image_captioning/json
+dataset-templates/image_captioning/json
 
-custom-datasets/image_classification/binary_classes/imagefolder
-custom-datasets/image_classification/multiple_classes/color/imagefolder
-custom-datasets/image_classification/multiple_classes/grayscale/imagefolder
-custom-datasets/custom-datasets/image_classification/multiple_classes/grayscale/json
-custom-datasets/image_classification/multiple_labels/json
+dataset-templates/image_classification/binary_classes/imagefolder
+dataset-templates/image_classification/multiple_classes/color/imagefolder
+dataset-templates/image_classification/multiple_classes/grayscale/imagefolder
+dataset-templates/custom-datasets/image_classification/multiple_classes/grayscale/json
+dataset-templates/image_classification/multiple_labels/json
 
-custom-datasets/image_segmentation/semantic
+dataset-templates/image_segmentation/semantic
 
-custom-datasets/object_detection
+dataset-templates/object_detection
 
-custom-datasets/question_answering/en
+dataset-templates/question_answering/en
 
-custom-datasets/recommendation
+dataset-templates/recommendation
 
-custom-datasets/sequence/many_to_many/char
-custom-datasets/sequence/many_to_many/word
+dataset-templates/sequence/many_to_many/char
+dataset-templates/sequence/many_to_many/word
 
-custom-datasets/siamese_classification
+dataset-templates/siamese_classification
 
-custom-datasets/summarization/en
+dataset-templates/summarization/en
 
-custom-datasets/super_resolution/x1
-custom-datasets/super_resolution/x4
+dataset-templates/super_resolution/x1
+dataset-templates/super_resolution/x4
 
-custom-datasets/tabular_classification/bank_loan
-custom-datasets/tabular_classification/iris
+dataset-templates/tabular_classification/bank_loan
+dataset-templates/tabular_classification/iris
 
-custom-datasets/tabular_regression/father_son_height
-custom-datasets/tabular_regression/hyundae_car_price
+dataset-templates/tabular_regression/father_son_height
+dataset-templates/tabular_regression/hyundae_car_price
 
-custom-datasets/text_classification/char/ko/json
-custom-datasets/text_classification/word/en/json
-custom-datasets/text_classification/word/en/text
-custom-datasets/text_classification/word/ko/json
-custom-datasets/text_classification/word/ko/text
+dataset-templates/text_classification/char/ko/json
+dataset-templates/text_classification/word/en/json
+dataset-templates/text_classification/word/en/text
+dataset-templates/text_classification/word/ko/json
+dataset-templates/text_classification/word/ko/text
 
-custom-datasets/text_generation/en/json
-custom-datasets/text_generation/ko/json
-custom-datasets/text_generation/ko/text
+dataset-templates/text_generation/en/json
+dataset-templates/text_generation/ko/json
+dataset-templates/text_generation/ko/text
 
-custom-datasets/time_series
+dataset-templates/time_series
 
-custom-datasets/token_classification/en
+dataset-templates/token_classification/en
 
-custom-datasets/translation/de_en
+dataset-templates/translation/de_en
 </pre>
 
 Python examples
 
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/datasets">datasets</a><br>
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data">torch.utils.data</a><br>
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data+dataset">torch.utils.data+dataset</a><br>
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/tensorflow_datasets">tensorflow_datasets</a>
+<a href="https://github.com/automatethem/dataset-templates/tree/main/python_examples/datasets">datasets</a><br>
+<a href="https://github.com/automatethem/dataset-templates/tree/main/python_examples/torch.utils.data">torch.utils.data</a><br>
+<a href="https://github.com/automatethem/dataset-templates/tree/main/python_examples/torch.utils.data+dataset">torch.utils.data+dataset</a><br>
+<a href="https://github.com/automatethem/dataset-templates/tree/main/python_examples/tensorflow_datasets">tensorflow_datasets</a>
 
 
