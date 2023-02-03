@@ -71,6 +71,6 @@ download from github
 
 Python examples
 
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples">datasets</a>
+<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/datasets">datasets</a>
 
 
