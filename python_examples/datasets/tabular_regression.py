@@ -3,8 +3,8 @@
 from datasets import load_dataset
 from datasets import Dataset
 
-dataset_dict = load_dataset("csv", data_files={"train": "download/tabular_regression/father_son_height/train.csv", "validation": "download/tabular_regression/father_son_height/validation.csv"})
-#dataset_dict = load_dataset("json", data_files={"train": "download/tabular_regression/father_son_height/train.json", "validation": "download/tabular_regression/father_son_height/validation.json"})
+dataset_dict = load_dataset("csv", data_files={"train": "custom-datasets/tabular_regression/father_son_height/train.csv", "validation": "custom-datasets/tabular_regression/father_son_height/validation.csv"})
+#dataset_dict = load_dataset("json", data_files={"train": "custom-datasets/tabular_regression/father_son_height/train.json", "validation": "custom-datasets/tabular_regression/father_son_height/validation.json"})
 #print(dataset_dict)
 '''
 DatasetDict({
