@@ -1,5 +1,10 @@
 # custom-datasets
 
+Download from github
+<pre>
+!git clone https://github.com/automatethem/download
+</pre>
+
 Supported custom datasets
 
 <pre>
