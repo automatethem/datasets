@@ -4,7 +4,7 @@
 from datasets import load_dataset
 import torch
 
-raw_dataset_dict = load_dataset("csv", data_files={"train": "custom-datasets/tabular_regression/father_son_height/train.csv", "validation": "custom-datasets/tabular_regression/father_son_height/validation.csv"})
+raw_dataset_dict = load_dataset("csv", data_files={"train": "dataset-templates/tabular_regression/father_son_height/train.csv", "validation": "dataset-templates/tabular_regression/father_son_height/validation.csv"})
 raw_train_dataset = raw_dataset_dict['train']
 raw_validation_dataset = raw_dataset_dict['validation']
 
