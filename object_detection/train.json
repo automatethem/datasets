@@ -13,7 +13,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/0.png"
+      "image":"dataset-template\/object_detection\/train\/0.png"
    },
    {
       "image_id":25,
@@ -29,7 +29,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/1.png"
+      "image":"dataset-template\/object_detection\/train\/1.png"
    },
    {
       "image_id":33,
@@ -45,7 +45,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/2.png"
+      "image":"dataset-template\/object_detection\/train\/2.png"
    },
    {
       "image_id":42,
@@ -61,7 +61,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/3.png"
+      "image":"dataset-template\/object_detection\/train\/3.png"
    },
    {
       "image_id":61,
@@ -77,7 +77,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/4.png"
+      "image":"dataset-template\/object_detection\/train\/4.png"
    },
    {
       "image_id":77,
@@ -93,7 +93,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/5.png"
+      "image":"dataset-template\/object_detection\/train\/5.png"
    },
    {
       "image_id":80,
@@ -109,7 +109,7 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/6.png"
+      "image":"dataset-template\/object_detection\/train\/6.png"
    },
    {
       "image_id":87,
@@ -125,6 +125,6 @@
             "category_id":0
          }
       ],
-      "image":"custom-datasets\/object_detection\/train\/7.png"
+      "image":"dataset-template\/object_detection\/train\/7.png"
    }
 ]
