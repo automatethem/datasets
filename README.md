@@ -71,8 +71,8 @@ download from github
 
 Python examples
 
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/datasets">datasets</a>
-
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data">torch.utils.data</a>
+<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/datasets">datasets</a><br>
+<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data">torch.utils.data</a><br>
+<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/tensorflow_datasets">tensorflow_datasets</a>
 
 
