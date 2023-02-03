@@ -1,9 +1,9 @@
 label,audio
-11,download/audio_classification/json/train/0.wav
-11,download/audio_classification/json/train/1.wav
-11,download/audio_classification/json/train/2.wav
-11,download/audio_classification/json/train/3.wav
-11,download/audio_classification/json/train/4.wav
-11,download/audio_classification/json/train/5.wav
-11,download/audio_classification/json/train/6.wav
-11,download/audio_classification/json/train/7.wav
+11,custom-datasets/audio_classification/json/train/0.wav
+11,custom-datasets/audio_classification/json/train/1.wav
+11,custom-datasets/audio_classification/json/train/2.wav
+11,custom-datasets/audio_classification/json/train/3.wav
+11,custom-datasets/audio_classification/json/train/4.wav
+11,custom-datasets/audio_classification/json/train/5.wav
+11,custom-datasets/audio_classification/json/train/6.wav
+11,custom-datasets/audio_classification/json/train/7.wav
