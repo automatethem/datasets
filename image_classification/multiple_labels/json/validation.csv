@@ -1,8 +1,8 @@
 label,image
-chair,custom-datasets/image_classification/multiple_labels/json/validation/000005.jpg
-car,custom-datasets/image_classification/multiple_labels/json/validation/000007.jpg
-horse person,custom-datasets/image_classification/multiple_labels/json/validation/000009.jpg
-bicycle,custom-datasets/image_classification/multiple_labels/json/validation/000016.jpg
-cat,custom-datasets/image_classification/multiple_labels/json/validation/000019.jpg
-car,custom-datasets/image_classification/multiple_labels/json/validation/000020.jpg
-dog person,custom-datasets/image_classification/multiple_labels/json/validation/000021.jpg
+chair,dataset-template/image_classification/multiple_labels/json/validation/000005.jpg
+car,dataset-template/image_classification/multiple_labels/json/validation/000007.jpg
+horse person,dataset-template/image_classification/multiple_labels/json/validation/000009.jpg
+bicycle,dataset-template/image_classification/multiple_labels/json/validation/000016.jpg
+cat,dataset-template/image_classification/multiple_labels/json/validation/000019.jpg
+car,dataset-template/image_classification/multiple_labels/json/validation/000020.jpg
+dog person,dataset-template/image_classification/multiple_labels/json/validation/000021.jpg
