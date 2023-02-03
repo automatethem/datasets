@@ -2,7 +2,6 @@
 #pip install pytorch
 
 from datasets import load_dataset
-from datasets import Dataset
 import torch
 
 raw_dataset_dict = load_dataset("csv", data_files={"train": "custom-datasets/tabular_regression/father_son_height/train.csv", "validation": "custom-datasets/tabular_regression/father_son_height/validation.csv"})
