@@ -1,3 +1,3 @@
 label,audio
-11,dataset-templates/audio_classification/json/validation/0.wav
-11,dataset-templates/audio_classification/json/validation/1.wav
+11,dataset-template/audio_classification/json/validation/0.wav
+11,dataset-template/audio_classification/json/validation/1.wav
