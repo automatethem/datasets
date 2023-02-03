@@ -1,9 +1,9 @@
 low_image,high_image
-download/super_resolution/x4/train/low_000001.jpg,download/super_resolution/x4/train/high_000001.jpg
-download/super_resolution/x4/train/low_000002.jpg,download/super_resolution/x4/train/high_000002.jpg
-download/super_resolution/x4/train/low_000003.jpg,download/super_resolution/x4/train/high_000003.jpg
-download/super_resolution/x4/train/low_000004.jpg,download/super_resolution/x4/train/high_000004.jpg
-download/super_resolution/x4/train/low_000005.jpg,download/super_resolution/x4/train/high_000005.jpg
-download/super_resolution/x4/train/low_000006.jpg,download/super_resolution/x4/train/high_000006.jpg
-download/super_resolution/x4/train/low_000007.jpg,download/super_resolution/x4/train/high_000007.jpg
-download/super_resolution/x4/train/low_000008.jpg,download/super_resolution/x4/train/high_000008.jpg
+dataset-template/super_resolution/x4/train/low_000001.jpg,dataset-template/super_resolution/x4/train/high_000001.jpg
+dataset-template/super_resolution/x4/train/low_000002.jpg,dataset-template/super_resolution/x4/train/high_000002.jpg
+dataset-template/super_resolution/x4/train/low_000003.jpg,dataset-template/super_resolution/x4/train/high_000003.jpg
+dataset-template/super_resolution/x4/train/low_000004.jpg,dataset-template/super_resolution/x4/train/high_000004.jpg
+dataset-template/super_resolution/x4/train/low_000005.jpg,dataset-template/super_resolution/x4/train/high_000005.jpg
+dataset-template/super_resolution/x4/train/low_000006.jpg,dataset-template/super_resolution/x4/train/high_000006.jpg
+dataset-template/super_resolution/x4/train/low_000007.jpg,dataset-template/super_resolution/x4/train/high_000007.jpg
+dataset-template/super_resolution/x4/train/low_000008.jpg,dataset-template/super_resolution/x4/train/high_000008.jpg
