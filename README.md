@@ -1,6 +1,6 @@
-# custom-datasets
+# dataset-templates
 
-Custom dataset templates for machine learning
+Dataset templates for machine learning
 
 Download from github
 <pre>
