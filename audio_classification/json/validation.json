@@ -1,10 +1,10 @@
 [
   {
     "label": 11,
-    "audio": "dataset-template\/audio_classification\/json\/validation\/0.wav"
+    "audio": "custom-datasets\/audio_classification\/json\/validation\/0.wav"
   },
   {
     "label": 11,
-    "audio": "dataset-template\/audio_classification\/json\/validation\/1.wav"
+    "audio": "custom-datasets\/audio_classification\/json\/validation\/1.wav"
   }
 ]
