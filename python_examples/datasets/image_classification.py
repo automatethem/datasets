@@ -3,7 +3,7 @@
 from datasets import load_dataset
 
 '''
-dataset_dict = load_dataset("json", data_files={"train": "dataset-template/image_classification/multiple_classes/grayscale/json/train.json", "validation": "dataset-template/image_classification/multiple_classes/grayscale/json/validation.json"})
+dataset_dict = load_dataset("json", data_files={"train": "custom-datasets/image_classification/multiple_classes/grayscale/json/train.json", "validation": "custom-datasets/image_classification/multiple_classes/grayscale/json/validation.json"})
 #print(dataset_dict)
 #DatasetDict({
 #    train: Dataset({
