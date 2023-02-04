@@ -1,10 +1,10 @@
 [
   {
     "transcription": "I am calling because I would like to set up a joint with my partner as possible and is there a bunny",
-    "audio": "dataset-template\/automatic_speech_recognition\/en\/validation\/0.wav"
+    "audio": "custom-datasets\/automatic_speech_recognition\/en\/validation\/0.wav"
   },
   {
     "transcription": "how do I start a joint account",
-    "audio": "dataset-template\/automatic_speech_recognition\/en\/validation\/1.wav"
+    "audio": "custom-datasets\/automatic_speech_recognition\/en\/validation\/1.wav"
   }
 ]
