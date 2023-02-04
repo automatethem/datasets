@@ -26,7 +26,7 @@ validation_dataset = dataset_dict['validation']
 #})
 '''
 #'''
-dataset_dict = load_dataset("imagefolder", data_dir="download/image_classification/multiple_classes/grayscale/imagefolder")
+dataset_dict = load_dataset("imagefolder", data_dir="custom-datasets/image_classification/multiple_classes/grayscale/imagefolder")
 #print(dataset_dict)
 #DatasetDict({
 #    train: Dataset({
