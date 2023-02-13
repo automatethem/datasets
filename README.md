@@ -25,7 +25,8 @@ custom-datasets/image_classification/multiple_labels/json
 
 custom-datasets/image_segmentation/semantic
 
-custom-datasets/object_detection
+custom-datasets/object_detection/early_printed_illustration
+custom-datasets/object_detection/wheat
 
 custom-datasets/question_answering/en
 
