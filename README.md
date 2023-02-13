@@ -20,7 +20,7 @@ custom-datasets/image_captioning/json
 custom-datasets/image_classification/binary_classes/imagefolder
 custom-datasets/image_classification/multiple_classes/color/imagefolder
 custom-datasets/image_classification/multiple_classes/grayscale/imagefolder
-custom-datasets/custom-datasets/image_classification/multiple_classes/grayscale/json
+custom-datasets/image_classification/multiple_classes/grayscale/json
 custom-datasets/image_classification/multiple_labels/json
 
 custom-datasets/image_segmentation/semantic
@@ -31,9 +31,6 @@ custom-datasets/object_detection/wheat
 custom-datasets/question_answering/en
 
 custom-datasets/recommendation
-
-custom-datasets/sequence/many_to_many/char
-custom-datasets/sequence/many_to_many/word
 
 custom-datasets/siamese_classification
 
@@ -62,7 +59,9 @@ custom-datasets/time_series
 
 custom-datasets/token_classification/en
 
-custom-datasets/translation/de_en
+custom-datasets/translation/fixed_length/char
+custom-datasets/translation/fixed_length/word
+custom-datasets/translation/variable_length/word/de_en
 </pre>
 
 Python examples
