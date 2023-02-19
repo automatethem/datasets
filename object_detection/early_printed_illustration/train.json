@@ -1,7 +1,7 @@
 [
    {
       "image_id":4,
-      "objects":[
+      "annotations":[
          {
             "area":110901,
             "bbox":[
@@ -17,7 +17,7 @@
    },
    {
       "image_id":25,
-      "objects":[
+      "annotations":[
          {
             "area":85492,
             "bbox":[
@@ -33,7 +33,7 @@
    },
    {
       "image_id":33,
-      "objects":[
+      "annotations":[
          {
             "area":207970,
             "bbox":[
@@ -49,7 +49,7 @@
    },
    {
       "image_id":42,
-      "objects":[
+      "annotations":[
          {
             "area":156540,
             "bbox":[
@@ -65,7 +65,7 @@
    },
    {
       "image_id":61,
-      "objects":[
+      "annotations":[
          {
             "area":142045,
             "bbox":[
@@ -81,7 +81,7 @@
    },
    {
       "image_id":77,
-      "objects":[
+      "annotations":[
          {
             "area":51565,
             "bbox":[
@@ -97,7 +97,7 @@
    },
    {
       "image_id":80,
-      "objects":[
+      "annotations":[
          {
             "area":36030,
             "bbox":[
@@ -113,7 +113,7 @@
    },
    {
       "image_id":87,
-      "objects":[
+      "annotations":[
          {
             "area":107020,
             "bbox":[
