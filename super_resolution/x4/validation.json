@@ -1,1 +1,2 @@
-[{"low_image":"custom-datasets\/super_resolution\/x4\/validation\/low_000009.jpg","high_image":"custom-datasets\/super_resolution\/x4\/validation\/high_000009.jpg"},{"low_image":"custom-datasets\/super_resolution\/x4\/validation\/low_000010.jpg","high_image":"custom-datasets\/super_resolution\/x4\/validation\/high_000010.jpg"}]
+{"low_image":"custom-datasets\/super_resolution\/x4\/validation\/low_000009.jpg","high_image":"custom-datasets\/super_resolution\/x4\/validation\/high_000009.jpg"}
+{"low_image":"custom-datasets\/super_resolution\/x4\/validation\/low_000010.jpg","high_image":"custom-datasets\/super_resolution\/x4\/validation\/high_000010.jpg"}
