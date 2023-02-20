@@ -64,6 +64,15 @@ custom-datasets/translation/fixed_length/word
 custom-datasets/translation/variable_length/word/de_en
 </pre>
 
+Supported formats
+<pre>
+csv
+jsonl
+audiofolder
+imagefolder
+text
+</pre>
+
 Python examples
 
 <a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data">torch.utils.data</a><br>
