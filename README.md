@@ -10,58 +10,58 @@ git clone https://github.com/automatethem/datasets
 Supported datasets
 
 <pre>
-custom-datasets/audio_classification/audiofolder
-custom-datasets/audio_classification/json
+datasets/audio_classification/audiofolder
+datasets/audio_classification/json
 
-custom-datasets/automatic_speech_recognition/en
+datasets/automatic_speech_recognition/en
 
-custom-datasets/image_captioning/json
+datasets/image_captioning/json
 
-custom-datasets/image_classification/binary_classes/imagefolder
-custom-datasets/image_classification/multiple_classes/color/imagefolder
-custom-datasets/image_classification/multiple_classes/grayscale/imagefolder
-custom-datasets/image_classification/multiple_classes/grayscale/json
-custom-datasets/image_classification/multiple_labels/json
+datasets/image_classification/binary_classes/imagefolder
+datasets/image_classification/multiple_classes/color/imagefolder
+datasets/image_classification/multiple_classes/grayscale/imagefolder
+datasets/image_classification/multiple_classes/grayscale/json
+datasets/image_classification/multiple_labels/json
 
-custom-datasets/image_segmentation/semantic
+datasets/image_segmentation/semantic
 
-custom-datasets/object_detection/early_printed_illustration
-custom-datasets/object_detection/wheat
+datasets/object_detection/early_printed_illustration
+datasets/object_detection/wheat
 
-custom-datasets/question_answering/en
+datasets/question_answering/en
 
-custom-datasets/recommendation
+datasets/recommendation
 
-custom-datasets/siamese_classification
+datasets/siamese_classification
 
-custom-datasets/summarization/en
+datasets/summarization/en
 
-custom-datasets/super_resolution/x1
-custom-datasets/super_resolution/x4
+datasets/super_resolution/x1
+datasets/super_resolution/x4
 
-custom-datasets/tabular_classification/bank_loan
-custom-datasets/tabular_classification/iris
+datasets/tabular_classification/bank_loan
+datasets/tabular_classification/iris
 
-custom-datasets/tabular_regression/father_son_height
-custom-datasets/tabular_regression/hyundae_car_price
+datasets/tabular_regression/father_son_height
+datasets/tabular_regression/hyundae_car_price
 
-custom-datasets/text_classification/char/ko/json
-custom-datasets/text_classification/word/en/json
-custom-datasets/text_classification/word/en/text
-custom-datasets/text_classification/word/ko/json
-custom-datasets/text_classification/word/ko/text
+datasets/text_classification/char/ko/json
+datasets/text_classification/word/en/json
+datasets/text_classification/word/en/text
+datasets/text_classification/word/ko/json
+datasets/text_classification/word/ko/text
 
-custom-datasets/text_generation/en/json
-custom-datasets/text_generation/ko/json
-custom-datasets/text_generation/ko/text
+datasets/text_generation/en/json
+datasets/text_generation/ko/json
+datasets/text_generation/ko/text
 
-custom-datasets/time_series
+datasets/time_series
 
-custom-datasets/token_classification/en
+datasets/token_classification/en
 
-custom-datasets/translation/fixed_length/char
-custom-datasets/translation/fixed_length/word
-custom-datasets/translation/variable_length/word/de_en
+datasets/translation/fixed_length/char
+datasets/translation/fixed_length/word
+datasets/translation/variable_length/word/de_en
 </pre>
 
 Supported formats
@@ -75,9 +75,9 @@ text
 
 Python examples
 
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data">torch.utils.data</a><br>
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/datasets">datasets</a><br>
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/torch.utils.data+datasets">torch.utils.data+datasets</a><br>
-<a href="https://github.com/automatethem/custom-datasets/tree/main/python_examples/tensorflow_datasets">tensorflow_datasets</a>
+<a href="https://github.com/automatethem/datasets/tree/main/python_examples/torch.utils.data">torch.utils.data</a><br>
+<a href="https://github.com/automatethem/datasets/tree/main/python_examples/datasets">datasets</a><br>
+<a href="https://github.com/automatethem/datasets/tree/main/python_examples/torch.utils.data+datasets">torch.utils.data+datasets</a><br>
+<a href="https://github.com/automatethem/datasets/tree/main/python_examples/tensorflow_datasets">tensorflow_datasets</a>
 
 
