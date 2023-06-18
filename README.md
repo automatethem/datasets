@@ -1,13 +1,13 @@
-# custom-datasets
+# datasets
 
-Custom-datasets for machine learning
+Datasets for machine learning
 
 Download from github
 <pre>
-git clone https://github.com/automatethem/custom-datasets
+git clone https://github.com/automatethem/datasets
 </pre>
 
-Supported custom datasets
+Supported datasets
 
 <pre>
 custom-datasets/audio_classification/audiofolder
