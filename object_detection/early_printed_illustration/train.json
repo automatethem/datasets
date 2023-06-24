@@ -1,8 +1,0 @@
-{"image_id":4,"annotations":[{"area":110901,"bbox":[34.5299987793,556.8300170898,401.4400024414,276.2600097656],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/0.png"}
-{"image_id":25,"annotations":[{"area":85492,"bbox":[62.3400001526,448.049987793,342.8599853516,249.3500061035],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/1.png"}
-{"image_id":33,"annotations":[{"area":207970,"bbox":[20.8299999237,495.8299865723,504.1700134277,412.5],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/2.png"}
-{"image_id":42,"annotations":[{"area":156540,"bbox":[66.6699981689,478.4299926758,458.8200073242,341.1799926758],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/3.png"}
-{"image_id":61,"annotations":[{"area":142045,"bbox":[16.8999996185,494.3699951172,430.9899902344,329.5799865723],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/4.png"}
-{"image_id":77,"annotations":[{"area":51565,"bbox":[83.4400024414,524.5,282.1199951172,182.7799987793],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/5.png"}
-{"image_id":80,"annotations":[{"area":36030,"bbox":[80.5400009155,209.3999938965,406.7099914551,88.5899963379],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/6.png"}
-{"image_id":87,"annotations":[{"area":107020,"bbox":[128.8600006104,430.8699951172,354.3599853516,302.0100097656],"category_id":0}],"image":"custom-datasets\/object_detection\/early_printed_illustration\/train\/7.png"}
