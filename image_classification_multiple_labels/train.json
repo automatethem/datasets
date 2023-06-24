@@ -1,0 +1,3 @@
+{"label":"car","image":"custom-datasets\/image_classification\/multiple_labels\/json\/train\/000012.jpg"}
+{"label":"person horse","image":"custom-datasets\/image_classification\/multiple_labels\/json\/train\/000017.jpg"}
+{"label":"bicycle person","image":"custom-datasets\/image_classification\/multiple_labels\/json\/train\/000023.jpg"}

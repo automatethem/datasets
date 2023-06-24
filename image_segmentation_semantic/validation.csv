@@ -1,0 +1,3 @@
+image,annotation
+datasets/image_segmentation_semantic/validation/0.png,datasets/image_segmentation_semantic/validation/0_annotation.png
+datasets/image_segmentation_semantic/validation/1.png,datasets/image_segmentation_semantic/validation/1_annotation.png
