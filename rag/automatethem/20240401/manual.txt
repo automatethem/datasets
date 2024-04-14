@@ -1,0 +1,218 @@
+크랜베리 회사 메뉴얼
+
+1. 회사 소개
+
+1.1. 회사 소개
+
+반갑습니다.
+저희는 풀스택 웹 언어인 자바스크립트(node.js)로 챗봇을 제작하고 있습니다.
+양질의 소프트웨어를 최대한 고객님이 예산에 맞추어 제작해 드리겠습니다.
+1+1은 단순하게 2가 아닌 그 이상의 에너지(시너지)를 발생시킨다고 생각되어 집니다.
+고객님들과 연결되어 자연 발생적으로 생겨나는 이 에너지를 같이 누리고 싶습니다.
+감사합니다
+
+2023년 11월 5일 크랜베리 대표 권상기
+
+1.2. 회사 연혁
+
+2012년 9월 ~: 안드로이드/아이폰 게임 앱 제작 (HTML5 앱, Construct2)
+2018년 3월 ~: 토닥토닥 무료 책 시리즈 발간 https://wikidocs.net/book/1637
+2019년 4월: 토닥토닥 파이썬 – 파이썬 기초 편 종이책 출간 (예스 24, 알라딘, 교보 문고)
+2021년 12월: 작업 봇 (파이썬 내부 라이브러리) 기반 업무 자동화, 알림 프로그램 제작
+2022년 5월: 인공지능, 사물 인터넷, 빅데이터 분석 프로그램 제작
+2022년 6월 9일: 나이스평가정보 기술등급평가 T5 등급 우수기업 선정
+
+1.3. 회사 정보
+
+상호: 크랜베리
+사업자 등록번호: 504-16-12178
+대표자 성명: 권상기
+업태: 서비스
+종목: 소프트웨어 개발
+통신판매업신고번호: 제 2012-대구중구-3090 호
+사업장 소재지: (우: 41974) 대구광역시 중구 달구벌대로 1970 (남산동, 청라 센트럴파크) 201동 2002호
+홈페이지: https://www.automatethem.co
+전화: 010-5778-1756
+이메일: automatethem@gmail.com
+카카오톡 아이디: automatethem
+개인정보관리책임자: 권상기
+입금 계좌 번호: 농협 301-0312-4534-11 권상기 크랜베리
+
+2. 서비스
+
+2.1.Gpt 챗봇을 제작해 드립니다.
+제작 서비스 플랫폼: Gpt / 웹 / 크롬 확장 / 모바일 / 카카오톡 / 텔레그램 / 디스코드 / 슬랙 / 유튜브
+
+2.2.Gpt 자동화 프로그램을 제작해 드립니다.
+제작 서비스 플랫폼: Gpt / 웹 / 크롬 확장 / 모바일 / 카카오톡 / 텔레그램 / 디스코드 / 슬랙 / 유튜브
+
+2.3.일반 챗봇 / 포워드 / 알림을 제작해 드립니다.
+제작 서비스 플랫폼: Gpt / 웹 / 크롬 확장 / 모바일 / 카카오톡 / 텔레그램 / 디스코드 / 슬랙 / 유튜브
+
+3.포트 폴리오
+
+Gpt 포트 폴리오 https://cafe.naver.com/ArticleList.nhn?search.clubid=30713051&search.menuid=5&search.boardtype=L
+다른 플랫폼 포트 폴리오: 위 링크 클릭후 좌측 다른 메뉴에서 확인 가능합니다.
+
+4.초기 버전 무료 제작 문의
+
+4.1.초기 버전 무료 제작 문의
+
+초기 버전은 무료로 제작해 드리며 초기버전이 마음에 들면 정식 작업 착수시 50% 완료시 50% 결재해 주시면 됩니다.
+초기버전 무료제작 신청 폼
+https://docs.google.com/forms/d/e/1FAIpQLScxAYUqyhaMc1l63CHah6OfBNfpyor3qLdlHq3L59QkXuotRA/viewform
+
+4.2.프리랜서 마켓 초기 버전 무료 제작 문의
+
+크몽 (cranberrygame)
+챗봇을 제작해 드립니다.
+https://kmong.com/gig/513561
+크몽 개인 전화 번호: *23#050437996051
+*23#을 추가해 전화를 걸어주세요.
+회원님의 번호가 공개되지 않습니다.
+
+숨고 (cranberrygame)
+챗봇을 제작해 드립니다.
+https://soomgo.com/profile/users/6442656?from=my_info_preview
+
+사람인 긱 (automatethem)
+챗봇을 제작해 드립니다.
+https://www.saramingig.co.kr/search?keyword=%EC%B1%97%EB%B4%87
+
+위드몬 (automatethem)
+챗봇을 제작해 드립니다.
+https://withmon.com/jobs/macro/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84-%EC%A0%9C%EC%9E%91%ED%95%B4-%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4/
+
+위프
+챗봇을 제작해 드립니다.
+https://www.weep.co.kr/
+
+알바몬
+챗봇을 제작해 드립니다.
+https://www.albamon.com/
+
+피버
+챗봇을 제작해 드립니다.
+https://www.fiverr.com/automatethem
+
+프리랜서 (cranberrygame)
+챗봇을 제작해 드립니다.
+https://www.freelancer.co.kr/get/cranberrygame?f=give
+
+5.원격 지원
+
+크롬 원격 데스크톱
+https://remotedesktop.google.com/support/
+
+애니 데스크
+https://anydesk.com
+
+6.친구들
+
+6.1.친구들
+
+스토리 조아 – 인공지능 기술의 길잡이
+https://storyjoa.com/
+빅데이터/강의자료
+https://www.storyjoa.com/monster/
+빅데이터분석기사모의고사
+https://www.storyjoa.com/bigdata/biganal/index.html
+유튜브방송
+https://www.youtube.com/channel/UCOwBJ3tcHmkFQ7NssFAXenA
+
+시각 디자인 전공, 로고 제작 웹 디자인해 드립니다.
+010-9326-9185
+
+6.2.기타 친구들
+
+아빠는 닭쟁이, 내막내딸떡볶이호떡, 잔치국밥 짱서방
+https://infosori.com/sori/board.php?board=fooddg&command=body&no=48060
+
+도로시
+도로시(의류 패션잡화)#골프웨어#데일리룩 등
+https://band.us/n/ada27e68J7V2p
+
+현대 s 라이프, 장례 웨딩 크루즈
+소장 박도영 010-3822-0325
+
+초이스커머스(chois commerce)
+생산자에게는 높은가격에 구매하고 소비자에게는 낮은가격으로 공급하고자 하는 마음을 담은 밴드 입니다.
+https://band.us/@choiscommerce
+
+조혜지의 달콤한 멜로디
+음악과 시가 어우러지는 공간
+https://www.youtube.com/channel/UC3qb0faNdv-Jvrnax_kWxIQ
+
+출장 빵구 정비
+대형 화물차 출장 빵구 정비! 긴급출동!
+전국 콜 센터 010-6667-0982
+
+문차사의 대기업 자동차경매 !
+싸고 좋은 중고차량구입은 여기
+https://band.us/@nsmotors
+
+MBTI는 과학이얌🔥
+https://www.instagram.com/mbti_infj_intj/
+
+플래비스 허미경
+자두 다이어트
+010-9336-9185
+
+구두 명품 종합 병원
+사람말곤 다 고쳐 드립니다.
+https://m.blog.naver.com/gudu33/222786437640
+
+위드홀스
+승마용품 대구 전시판매장
+http://www.with-horse.com/
+
+블루웜
+새로운 패러다임의 선강 면역 융복합 System
+https://www.bluewarm.co.kr/
+
+xx 보험
+간단 문구
+추순인 010-4733-7536
+
+다은통증케어
+전주에서 만나는 차별화된 마사지샵
+https://m.blog.naver.com/daeun2366555
+https://deaun123.modoo.at/
+
+7.SNS
+
+카카오톡 채널 http://pf.kakao.com/_kJtsG
+카카오톡 채널 개발용 http://pf.kakao.com/_UqxksG
+카카오톡 오픈 채팅 (그룹) https://open.kakao.com/o/ghbsuoYf
+카카오톡 오픈 채팅 (1:1) https://open.kakao.com/o/sNUUwlhe
+텔레그램 그룹 https://t.me/automatethem_group
+텔레그램 채널 https://t.me/automatethem_channel
+디스코드 서버 https://discord.gg/W5MdHvqg
+네이버 블로그 https://blog.naver.com/automatethem
+네이버 카페 https://cafe.naver.com/automatethem
+네이버 밴드 https://band.us/band/87167706
+티스토리 https://automatethem.tistory.com
+다음 카페 https://cafe.daum.net/automatethem
+유튜브 https://www.youtube.com/@automatethem
+페이스북 그룹 https://www.facebook.com/groups/426458259318602
+인스타 그램 https://www.instagram.com/automatethem
+트위터 https://twitter.com/automatethem
+
+8.사용툴
+
+리액트 https://react.dev
+차크라UI https://chakra-ui.com
+넥스트 https://nextjs.org
+일렉트론 https://electronjs.org
+webdriver.io https://webdriver.io
+앱피움 https://appium.io
+노드레드 https://nodered.org
+엑스포 https://expo.dev
+오픈AI https://openai.com
+리플리키트 https://replicate.com
+파이토치 https://pytorch.org
+허깅페이스 https://huggingface.co
+ONNX Runtime https://onnxruntime.ai
+패스트API https://fastapi.tiangolo.com
+랭체인 https://www.langchain.com
+깃허브 https://github.com
