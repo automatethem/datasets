@@ -1,0 +1,9 @@
+low_image,high_image
+custom-datasets/basic/super_resolution/x4/train/low_000001.jpg,custom-datasets/basic/super_resolution/x4/train/high_000001.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000002.jpg,custom-datasets/basic/super_resolution/x4/train/high_000002.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000003.jpg,custom-datasets/basic/super_resolution/x4/train/high_000003.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000004.jpg,custom-datasets/basic/super_resolution/x4/train/high_000004.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000005.jpg,custom-datasets/basic/super_resolution/x4/train/high_000005.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000006.jpg,custom-datasets/basic/super_resolution/x4/train/high_000006.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000007.jpg,custom-datasets/basic/super_resolution/x4/train/high_000007.jpg
+custom-datasets/basic/super_resolution/x4/train/low_000008.jpg,custom-datasets/basic/super_resolution/x4/train/high_000008.jpg

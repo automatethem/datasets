@@ -1,0 +1,3 @@
+low_image,high_image
+datasets/basic/super_resolution_x1/validation/low_000009.jpg,datasets/basic/super_resolution_x1/validation/high_000009.jpg
+datasets/basic/super_resolution_x1/validation/low_000010.jpg,datasets/basic/super_resolution_x1/validation/high_000010.jpg
