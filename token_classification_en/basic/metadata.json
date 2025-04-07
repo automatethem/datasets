@@ -1,0 +1,17 @@
+{
+    "labels": [
+        "O",
+        "B-corporation",
+        "I-corporation",
+        "B-creative-work",
+        "I-creative-work",
+        "B-group",
+        "I-group",
+        "B-location",
+        "I-location",
+        "B-person",
+        "I-person",
+        "B-product",
+        "I-product"
+    ]
+}
