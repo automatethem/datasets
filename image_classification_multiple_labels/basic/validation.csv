@@ -1,0 +1,8 @@
+label,image
+chair,datasets/basic/image_classification_multiple_labels/validation/000005.jpg
+car,datasets/basic/image_classification_multiple_labels/validation/000007.jpg
+horse person,datasets/basic/image_classification_multiple_labels/validation/000009.jpg
+bicycle,datasets/basic/image_classification_multiple_labels/validation/000016.jpg
+cat,datasets/basic/image_classification_multiple_labels/validation/000019.jpg
+car,datasets/basic/image_classification_multiple_labels/validation/000020.jpg
+dog person,datasets/basic/image_classification_multiple_labels/validation/000021.jpg

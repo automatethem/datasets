@@ -1,0 +1,9 @@
+image,annotation
+datasets/basic/image_segmentation_semantic/train/0.png,datasets/basic/image_segmentation_semantic/train/0_annotation.png
+datasets/basic/image_segmentation_semantic/train/1.png,datasets/basic/image_segmentation_semantic/train/1_annotation.png
+datasets/basic/image_segmentation_semantic/train/2.png,datasets/basic/image_segmentation_semantic/train/2_annotation.png
+datasets/basic/image_segmentation_semantic/train/3.png,datasets/basic/image_segmentation_semantic/train/3_annotation.png
+datasets/basic/image_segmentation_semantic/train/4.png,datasets/basic/image_segmentation_semantic/train/4_annotation.png
+datasets/basic/image_segmentation_semantic/train/5.png,datasets/basic/image_segmentation_semantic/train/5_annotation.png
+datasets/basic/image_segmentation_semantic/train/6.png,datasets/basic/image_segmentation_semantic/train/6_annotation.png
+datasets/basic/image_segmentation_semantic/train/7.png,datasets/basic/image_segmentation_semantic/train/7_annotation.png
